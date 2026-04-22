@@ -13,7 +13,7 @@ Read this in other languages:
 &middot; [Italiano](lang/italian.md)
 &middot; [한국어](lang/korean.md)
 &middot; [தமிழ்](lang/tamil.md)
-&middot; [ಕನ್ನಡ](lang/kannada.md)
+&middot; [ಕನ್ನಡ](lang/kannada.md)v
 &middot; [odia](lang/odia.md)
 &middot; [pidgin](lang/pidgin.md)
 &middot; [Polski](lang/polish.md)
@@ -26,6 +26,7 @@ Read this in other languages:
 &middot; [Українська](lang/ukrainian.md)
 &middot; [isiZulu](lang/zulu.md)
 &middot; [Tiếng Việt](lang/vietnamese.md)
+&middot; [Greek](lang/greek.md)
 
 _Don't have the language you need? Just create an [issue](https://github.com/gomzyakov/github-achievements/issues)._
 
